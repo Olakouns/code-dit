@@ -1,0 +1,41 @@
+.color-1{
+    color: #9F9896;
+}
+.color-2{
+    color: #E9E7E0;
+}
+.color-3{
+    color: #F6A426;
+}
+.color-4{
+    color: #254D4C;
+}
+.color-5{
+    color: #EB5B44;
+}
+
+body{
+    background-color: #f4f1eb;
+}
+
+.content{
+    margin: 47px;
+    background-color: #E9E7E0;
+    height: 90vh;
+    border-radius: 50px;
+}
+
+.head-section{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.head-section-title{
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+.head-section-content{
+    font-size: 1rem;
+    margin-top: 16px;
+}
